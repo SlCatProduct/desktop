@@ -1,0 +1,11 @@
+{
+  "version": "0.1.5",
+  "notes": "Bug fixes + faster connect",
+  "pub_date": "2025-11-23T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/SL-CAT/slcat-vpn-desktop/releases/download/v0.1.5/slcat-vpn-desktop_0.1.5_x64_en-US.msi.zip",
+      "signature": "PASTE_CONTENT_OF_.sig_FILE_HERE"
+    }
+  }
+}
